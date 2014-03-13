@@ -1,4 +1,7 @@
-Sitio Python México
+Comunidad Python México
 ===================
 
-En construcción.
+Objetivo
+--------
+
+Promover el uso de Python.
